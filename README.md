@@ -2,4 +2,4 @@
 Someone asked me to share my patched H3lix_RC6 from Reddit, so i decide to share it here.
 
 I just patched this H3lix_RC6 to work fine with iOS 10 (64-bit).
-> I did not do any changes inside files, so all original files are intact and untouched!
+> I did not do any changes inside files, so all the original files are intact and untouched!
